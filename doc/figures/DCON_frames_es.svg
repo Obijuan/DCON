@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="DCON_frames_es.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path4242"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path4245"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-58"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-13"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4242-8"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-58-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-13-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-9"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-52"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4242-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-58-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-13-9"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4242-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-58-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-13-03"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-4"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4242-9"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-58-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4245-13-4"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="406.08637"
+     inkscape:cy="849.13956"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1863"
+     inkscape:window-height="1176"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6476"
+       width="585"
+       height="320"
+       x="85.714287"
+       y="76.647896"
+       rx="9.5936365"
+       ry="11.428572"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.99999987999999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3208"
+       width="223.21429"
+       height="27.857143"
+       x="129.24908"
+       y="193.79076"
+       rx="0.30791774"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="135.3205"
+       y="211.6479"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="135.3205"
+         y="211.6479">:</tspan></text>
+    <g
+       id="g3268"
+       transform="translate(-82.832509,0)"
+       style="fill:#0000ff"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2993"
+         y="210.93361"
+         x="233.12764"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="210.93361"
+           x="233.12764"
+           id="tspan2995"
+           sodipodi:role="line">a</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997"
+         y="214.8622"
+         x="241.69907"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;fill:#0000ff"
+           y="214.8622"
+           x="241.69907"
+           id="tspan2999"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g3274"
+       transform="translate(-80.559665,0)"
+       style="fill:#0000ff"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2993-7"
+         y="210.93361"
+         x="254.19907"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="210.93361"
+           x="254.19907"
+           id="tspan2995-4"
+           sodipodi:role="line">a</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-9"
+         y="214.8622"
+         x="262.77048"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;fill:#0000ff"
+           y="214.8622"
+           x="262.77048"
+           id="tspan2999-9"
+           sodipodi:role="line">0</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="202.07031"
+       y="212.95392"
+       id="text2993-7-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2995-4-2"
+         x="202.07031"
+         y="212.95392">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="286.07141"
+       y="214.8622"
+       id="text2997-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2999-9-0"
+         x="286.07141"
+         y="214.8622"
+         style="font-size:12px" /></text>
+    <g
+       id="g3357"
+       transform="translate(-79.500928,0)"
+       style="fill:#225500"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2993-3"
+         y="210.93361"
+         x="300.89285"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#225500;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="210.93361"
+           x="300.89285"
+           id="tspan2995-9"
+           sodipodi:role="line">r</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1"
+         y="214.8622"
+         x="306.96429"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#225500;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;fill:#225500"
+           y="214.8622"
+           x="306.96429"
+           id="tspan2999-7"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g3363"
+       transform="translate(-79.85807,0)"
+       style="fill:#225500"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text2993-7-2"
+         y="210.93361"
+         x="323.92859"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#225500;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="210.93361"
+           x="323.92859"
+           id="tspan2995-4-3"
+           sodipodi:role="line">r</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-9-1"
+         y="214.8622"
+         x="329.10715"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#225500;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;fill:#225500"
+           y="214.8622"
+           x="329.10715"
+           id="tspan2999-9-2"
+           sodipodi:role="line">0</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="310.67764"
+       y="210.93361"
+       id="text2993-3-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2995-9-5"
+         x="310.67764"
+         y="210.93361">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="319.24908"
+       y="214.8622"
+       id="text2997-1-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2999-7-5"
+         x="319.24908"
+         y="214.8622"
+         style="font-size:12px;fill:#ff6600">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="333.53479"
+       y="210.93361"
+       id="text2993-7-2-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2995-4-3-8"
+         x="333.53479"
+         y="210.93361">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.1062"
+       y="214.8622"
+       id="text2997-9-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2999-9-2-7"
+         x="342.1062"
+         y="214.8622"
+         style="font-size:12px;fill:#ff6600">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="266.74905"
+       y="210.93361"
+       id="text2993-3-0-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2995-9-5-5"
+         x="266.74905"
+         y="210.93361">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="275.3205"
+       y="214.8622"
+       id="text2997-1-0-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2999-7-5-7"
+         x="275.3205"
+         y="214.8622"
+         style="font-size:12px;fill:#ff6600">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="288.17764"
+       y="210.93361"
+       id="text2993-7-2-6-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2995-4-3-8-5"
+         x="288.17764"
+         y="210.93361">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="296.74905"
+       y="214.8622"
+       id="text2997-9-1-6-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2999-9-2-7-3"
+         x="296.74905"
+         y="214.8622"
+         style="font-size:12px;fill:#ff6600">2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 146.47212,221.25918 0,-27.7792"
+       id="path3212"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 193.94929,221.25918 0,-27.7792"
+       id="path3212-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.94801,199.93793 0,-6.57181"
+       id="path3212-9-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.94801,221.38835 0,-6.57181"
+       id="path3212-9-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 215.735,221.25918 0,-27.7792"
+       id="path3212-9-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#338000;stroke:#338000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 238.05515,199.93793 0,-6.57181"
+       id="path3212-9-9-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#338000;stroke:#338000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 238.05515,221.38835 0,-6.57181"
+       id="path3212-9-9-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 262.69929,221.25918 0,-27.7792"
+       id="path3212-9-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.01944,199.93793 0,-6.57181"
+       id="path3212-9-9-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.01944,221.38835 0,-6.57181"
+       id="path3212-9-9-2-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 307.51944,199.93793 0,-6.57181"
+       id="path3212-9-9-3-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 307.51944,221.38835 0,-6.57181"
+       id="path3212-9-9-2-8-9-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 329.6623,199.93793 0,-6.57181"
+       id="path3212-9-9-3-8-5-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 329.6623,221.38835 0,-6.57181"
+       id="path3212-9-9-2-8-9-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 262.63966,227.82517 5.3033,5.3033 78.41309,0 5.80838,-5.80838"
+       id="path4210"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4844"
+       style="fill:#ff6600"
+       transform="matrix(0.94641514,0,0,1,-60.948904,0)"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 344.21875,181.125 0,1 90.65625,0 0,-1 -90.65625,0 z"
+         id="path4212"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 349.44063,184.03093 -6.55552,-2.41063 6.55552,-2.41063 c -1.0473,1.42323 -1.04126,3.37047 0,4.82126 z"
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4850"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 429.63952,179.19045 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4852"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="302.54068"
+       y="177.065"
+       id="text4854"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4856"
+         x="302.54068"
+         y="177.065">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="234.86047"
+       y="290.70715"
+       id="text4858"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4860"
+         x="234.86047"
+         y="290.70715" /></text>
+    <g
+       id="g5100"
+       transform="translate(-82.832509,5.5558395)"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200"
+         y="251.55074"
+         x="416.25781"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;fill:#ff6600"
+           y="251.55074"
+           x="416.25781"
+           id="tspan4202"
+           sodipodi:role="line">Valor</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4862"
+         y="251.31122"
+         x="450.52805"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#ff6600"
+           y="251.31122"
+           x="450.52805"
+           id="tspan4864"
+           sodipodi:role="line">(16 bits)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#225500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 217.63966,227.82517 5.3033,5.3033 31.80594,0 5.80838,-5.80838"
+       id="path4210-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6426"
+       transform="matrix(1,0,0,1.1231109,0,-33.988419)"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#225500;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 238.03125,239.15625 0,34.53125 0,0.5 0.5,0 85.9375,0 0,-1 -85.4375,0 0,-34.03125 -1,0 z"
+         id="path4886"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 319.24669,271.25851 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill:#338000;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6432"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#338000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="334.60623"
+       y="277.36218"
+       id="text5072"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5074"
+         x="334.60623"
+         y="277.36218">Número de registro (8 bits)</tspan></text>
+    <g
+       id="g6418"
+       transform="matrix(1,0,0,1.299712,0,-76.476227)"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 306.71875,239.15625 0,13.59375 0,0.5 0.5,0 20.21875,0 0,-1 -19.71875,0 0,-13.09375 -1,0 z"
+         id="path4886-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 322.19805,250.34444 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6424"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g6434"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#338000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 217.8125,181.15625 0,1 42.5,0 0,-1 -42.5,0 z"
+         id="path4886-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 223.05164,184.06814 -6.55552,-2.41063 6.55552,-2.41063 c -1.0473,1.42323 -1.04126,3.37047 0,4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#338000"
+         id="path6440"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 255.08934,179.22766 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#338000"
+         id="path6442"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#338000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="236.11212"
+       y="177.065"
+       id="text4854-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4856-3"
+         x="236.11212"
+         y="177.065">2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend-58)"
+       d="m 195.95872,181.6479 17.32396,0"
+       id="path4886-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="202.272"
+       y="177.065"
+       id="text4854-8-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4856-3-5"
+         x="202.272"
+         y="177.065">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 193.71109,227.82517 5.3033,5.3033 10.55595,0 5.80838,-5.80838"
+       id="path4210-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 204.24906,234.86218 0,58.72766 120.29534,0"
+       id="path4886-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="335.33218"
+       y="298.78836"
+       id="text6004"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6006"
+         x="335.33218"
+         y="298.78836">Tipo de trama:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="365.13168"
+       y="317.47623"
+       id="text6008"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6010"
+         x="365.13168"
+         y="317.47623">f = 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="400.48703"
+       y="316.97113"
+       id="text6012"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6014"
+         x="400.48703"
+         y="316.97113">(SET)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="444.42868"
+       y="316.46606"
+       id="text6012-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6014-7"
+         x="444.42868"
+         y="316.46606">Envío de datos (PC -&gt; DCON)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="365.13168"
+       y="336.16406"
+       id="text6008-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6010-4"
+         x="365.13168"
+         y="336.16406">f = 6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="400.48703"
+       y="335.65897"
+       id="text6012-69"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6014-9"
+         x="400.48703"
+         y="335.65897">(GET)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="444.42868"
+       y="335.1539"
+       id="text6012-6-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6014-7-9"
+         x="444.42868"
+         y="335.1539">Recepción de datos (DCON -&gt; PC)</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.25423,227.82517 5.3033,5.3033 32.27423,0 5.80838,-5.80838"
+       id="path4210-6-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6444"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999994px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 169.46875,234.875 0,114.0625 0,0.5 0.5,0 154.21875,0 0,-1 -153.71875,0 0,-113.5625 -1,0 z"
+         id="path4886-8-0"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 318.95092,346.52073 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#0000ff"
+         id="path6450"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="337.74738"
+       y="354.34677"
+       id="text6112"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6114"
+         x="337.74738"
+         y="354.34677">Dirección del DCON (8 bits)</tspan></text>
+    <g
+       id="g6452"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 148.40625,181.15625 0,1 43.15625,0 0,-1 -43.15625,0 z"
+         id="path4886-6-5-4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 153.63236,184.06814 -6.55552,-2.41063 6.55552,-2.41063 c -1.0473,1.42323 -1.04126,3.37047 0,4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#0000ff"
+         id="path6458"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 186.32336,179.22766 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#0000ff"
+         id="path6460"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="165.84343"
+       y="177.065"
+       id="text4854-8-0-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4856-3-5-3"
+         x="165.84343"
+         y="177.065">2</tspan></text>
+    <g
+       id="g6462"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 132,181.15625 0,1 12.125,0 0,-1 -12.125,0 z"
+         id="path4886-6-5-8"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 137.22794,184.06814 -6.55552,-2.41063 6.55552,-2.41063 c -1.0473,1.42323 -1.04126,3.37047 0,4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#ff0000"
+         id="path6468"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 138.90049,179.22766 6.55552,2.41063 -6.55552,2.41063 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126 z"
+         style="fill-rule:evenodd;stroke-width:0.62500000000000000;stroke-linejoin:round;fill:#ff0000"
+         id="path6470"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="134.08672"
+       y="177.065"
+       id="text4854-8-0-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4856-3-5-6"
+         x="134.08672"
+         y="177.065">1</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 136.12324,234.86218 0,131.96351 189.5556,0"
+       id="path4886-8-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="337.35614"
+       y="370.50922"
+       id="text6112-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6114-6"
+         x="337.35614"
+         y="370.50922">Comienzo de trama</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.5664,227.82517 5.3033,5.3033 5.25265,0 5.80838,-5.80838"
+       id="path4210-6-4-73"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6268"
+       sodipodi:cx="242.43661"
+       sodipodi:cy="423.03714"
+       sodipodi:rx="3.0304577"
+       sodipodi:ry="3.0304577"
+       d="m 245.46707,423.03714 a 3.0304577,3.0304577 0 1 1 -6.06091,0 3.0304577,3.0304577 0 1 1 6.06091,0 z"
+       transform="translate(113.21429,-108.92857)"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6268-7"
+       sodipodi:cx="242.43661"
+       sodipodi:cy="423.03714"
+       sodipodi:rx="3.0304577"
+       sodipodi:ry="3.0304577"
+       d="m 245.46707,423.03714 a 3.0304577,3.0304577 0 1 1 -6.06091,0 3.0304577,3.0304577 0 1 1 6.06091,0 z"
+       transform="translate(113.21429,-91.42857)"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="m 146.42857,193.9127 0,-30.2439"
+       id="path6292"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 193.6532,193.9127 0,-30.2439"
+       id="path6292-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 215.43891,193.9127 0,-30.2439"
+       id="path6292-9-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 262.58177,193.9127 0,-30.2439"
+       id="path6292-9-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 2.00000002;stroke-dashoffset:0"
+       d="m 129.28572,193.43581 0,-59.08963"
+       id="path6292-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 2.00000002;stroke-dashoffset:0"
+       d="m 352.52943,193.43581 0,-59.08963"
+       id="path6292-6-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#225500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend-58)"
+       d="m 132.69771,149.82809 213.25073,0"
+       id="path4886-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="201.42857"
+       y="141.64789"
+       id="text6414"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6416"
+         x="201.42857"
+         y="141.64789">10 Caracteres</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="279.28571"
+       y="104.50504"
+       id="text6472"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_frames_es.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6474"
+         x="279.28571"
+         y="104.50504"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#0000ff">FORMATO DE LAS TRAMAS</tspan></text>
+  </g>
+</svg>
