@@ -47,6 +47,7 @@ def menu():
      1.- Lectura de la dirección del DCON
      2.- Cambiar la dirección del DCON a 0x01
      3.- Cambiar la dirección del DCON a 0x02
+     4.- Lectura de entradas digitales
      
   SP.- Volver a sacar el menu
   ESC.- Terminar
@@ -66,6 +67,7 @@ ESC = '\x1B'
 FRAME_DIRC_READ    = ":003000000"
 FRAME_DIRC_WRITE_1 = ":006000001" 
 FRAME_DIRC_WRITE_2 = ":006000002"
+FRAME_DINS_READ    = ":013010000"
 
 FRAME_RELE1_ON  = ":016040008"
 FRAME_RELE2_ON  = ":016040004"
@@ -106,6 +108,9 @@ while True:
     
   elif c=='3': 
     send_frame(FRAME_DIRC_WRITE_2)
+    
+  elif c=='4': 
+    send_frame(FRAME_DINS_READ)
     
   elif c==' ': menu()
   elif c==ESC: break   #-- Salir del bucle
