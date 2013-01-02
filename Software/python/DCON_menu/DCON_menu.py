@@ -7,6 +7,10 @@ import getopt
 import serial
 import time
 
+DO0_state = 0
+DO1_state = 0
+Rele0_state = 0
+Rele1_state = 0
 
 def send_frame(frame):
   #-- Switch to Transmiting mode
@@ -34,6 +38,12 @@ def send_frame(frame):
   else:
     #-- No response! timeout!
     print "TIMEOUT"; 
+
+def digital_output_frame():
+  #-- Send a digital output frame according to the current outputs state
+  value = Rele1_state<<3 | Rele0_state<<2 | DO1_state<<1 | DO0_state
+  value_digit = "{0:X}".format(value)
+  send_frame(FRAME_DOUS_WRITE+"000"+value_digit)
     
 #-----------------
 #-- Sacar el menu
@@ -50,6 +60,10 @@ def menu():
      4.- Lectura de entradas digitales (DINS)
      5.- Lectura de entrada analógica 0 (AIN0)
      6.- Lectura de entrada analógica 1 (AIN1)
+     7.- Salida Digital 0 on/off (DOUS)
+     8.- Salida Digital 1 on/off (DOUS)
+     9.- Rele 0 on/off (DOUS)
+     0.- Rele 1 on/off (DOUS)
      
   SP.- Volver a sacar el menu
   ESC.- Terminar
@@ -72,6 +86,7 @@ FRAME_DIRC_WRITE_2 = ":006000002"
 FRAME_DINS_READ    = ":013010000"
 FRAME_AIN0_READ    = ":013020000"
 FRAME_AIN1_READ    = ":013030000"
+FRAME_DOUS_WRITE   = ":01604"
 
 FRAME_RELE1_ON  = ":016040008"
 FRAME_RELE2_ON  = ":016040004"
@@ -121,6 +136,22 @@ while True:
     
   elif c=='6': 
     send_frame(FRAME_AIN1_READ)
+    
+  elif c=='7': 
+    DO0_state = (DO0_state + 1) % 2
+    digital_output_frame()
+    
+  elif c=='8': 
+    DO1_state = (DO1_state + 1) % 2
+    digital_output_frame()
+ 
+  elif c=='9': 
+    Rele0_state = (Rele0_state + 1) % 2
+    digital_output_frame()
+    
+  elif c=='0': 
+    Rele1_state = (Rele1_state + 1) % 2
+    digital_output_frame()
     
   elif c==' ': menu()
   elif c==ESC: break   #-- Salir del bucle
