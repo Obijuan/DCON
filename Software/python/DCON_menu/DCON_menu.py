@@ -12,6 +12,10 @@ DO1_state = 0
 Rele0_state = 0
 Rele1_state = 0
 
+#-- Analog outputs in three states: min (0v), middle (2.5v) and max (5v)
+AO_state = 0
+AO_value = ["0000", "01FF", "03FF"]
+
 def send_frame(frame):
   #-- Switch to Transmiting mode
   s.setRTS(False)
@@ -64,6 +68,7 @@ def menu():
      8.- Salida Digital 1 on/off (DOUS)
      9.- Rele 0 on/off (DOUS)
      0.- Rele 1 on/off (DOUS)
+     a.- Salida Analógica 0 / 2.5 / 5v (AOUT)
      
   SP.- Volver a sacar el menu
   ESC.- Terminar
@@ -87,6 +92,7 @@ FRAME_DINS_READ    = ":013010000"
 FRAME_AIN0_READ    = ":013020000"
 FRAME_AIN1_READ    = ":013030000"
 FRAME_DOUS_WRITE   = ":01604"
+FRAME_AOUT_WRITE   = ":01605"
 
 FRAME_RELE1_ON  = ":016040008"
 FRAME_RELE2_ON  = ":016040004"
@@ -126,6 +132,7 @@ while True:
     send_frame(FRAME_DIRC_WRITE_1)
     
   elif c=='3': 
+    digital_output_frame()
     send_frame(FRAME_DIRC_WRITE_2)
     
   elif c=='4': 
@@ -152,6 +159,10 @@ while True:
   elif c=='0': 
     Rele1_state = (Rele1_state + 1) % 2
     digital_output_frame()
+    
+  elif c=='a': 
+    AO_state = (AO_state + 1) % 3
+    send_frame(FRAME_AOUT_WRITE + AO_value[AO_state])
     
   elif c==' ': menu()
   elif c==ESC: break   #-- Salir del bucle
