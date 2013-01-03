@@ -79,6 +79,7 @@ def menu():
      c.- Salida PWM1 (0, 10, 20 ... 100%)
      d.- Configuracion Salidas digitales (normal, pwm)
      
+     z.- Leer numero version del firmware
      
   SP.- Volver a sacar el menu
   ESC.- Terminar
@@ -106,6 +107,8 @@ FRAME_AOUT_WRITE   = ":01605"
 FRAME_PWM0_WRITE   = ":01606"
 FRAME_PWM1_WRITE   = ":01607"
 FRAME_COND_WRITE   = ":01608"
+FRAME_VERSION_READ = ":0131A0000"
+
 
 FRAME_RELE1_ON  = ":016040008"
 FRAME_RELE2_ON  = ":016040004"
@@ -190,6 +193,9 @@ while True:
   elif c=='d':
     COND_state = (COND_state + 1) % 2
     send_frame(FRAME_COND_WRITE + COND_value[COND_state])
+
+  elif c=='z':
+    send_frame(FRAME_VERSION_READ)
 
   elif c==' ': menu()
   elif c==ESC: break   #-- Salir del bucle
