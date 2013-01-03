@@ -11,6 +11,8 @@ DO0_state = 0
 DO1_state = 0
 Rele0_state = 0
 Rele1_state = 0
+pwm0 = 0
+pwm1 = 0
 
 #-- Analog outputs in three states: min (0v), middle (2.5v) and max (5v)
 AO_state = 0
@@ -69,6 +71,8 @@ def menu():
      9.- Rele 0 on/off (DOUS)
      0.- Rele 1 on/off (DOUS)
      a.- Salida Analógica 0 / 2.5 / 5v (AOUT)
+     b.- Salida PWM0 (0, 10, 20 ... 100%)
+     c.- Salida PWM1 (0, 10, 20 ... 100%)
      
   SP.- Volver a sacar el menu
   ESC.- Terminar
@@ -93,6 +97,8 @@ FRAME_AIN0_READ    = ":013020000"
 FRAME_AIN1_READ    = ":013030000"
 FRAME_DOUS_WRITE   = ":01604"
 FRAME_AOUT_WRITE   = ":01605"
+FRAME_PWM0_WRITE   = ":01606"
+FRAME_PWM1_WRITE   = ":01607"
 
 FRAME_RELE1_ON  = ":016040008"
 FRAME_RELE2_ON  = ":016040004"
@@ -163,6 +169,16 @@ while True:
   elif c=='a': 
     AO_state = (AO_state + 1) % 3
     send_frame(FRAME_AOUT_WRITE + AO_value[AO_state])
+    
+  elif c=='b': 
+    pwm0 = (pwm0 + 10) % 110
+    pwm0_value = "{0:04X}".format( (pwm0 * 0x3FF) / 100)
+    send_frame(FRAME_PWM0_WRITE + pwm0_value)
+    
+  elif c=='c': 
+    pwm1 = (pwm1 + 10) % 110
+    pwm1_value = "{0:04X}".format( (pwm1 * 0x3FF) / 100)
+    send_frame(FRAME_PWM1_WRITE + pwm1_value)
     
   elif c==' ': menu()
   elif c==ESC: break   #-- Salir del bucle
