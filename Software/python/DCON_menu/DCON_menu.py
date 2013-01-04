@@ -23,6 +23,9 @@ CONA_value = ["0000",  #-- Conf 0: AIN0, AIN1, AO en 0-20ma
               "0111",  #-- Conf 1: AIN0, AIN1, AO en 4-20ma
               "0222"]   #-- Conf 2: AIN0, AIN1, AO en 0-5v
 
+PID_CONF_state = 0
+PID_CONF_value = ["0000", "0001", "0002", "0003", "0004", "0005", "0006"]
+
 
 #-- Analog outputs in three states: min (0v), middle (2.5v) and max (5v)
 AO_state = 0
@@ -85,6 +88,7 @@ def menu():
      c.- Salida PWM1 (0, 10, 20 ... 100%)
      d.- Configuracion Salidas digitales (normal, pwm)
      e.- Configuracion E/S Analogicas (0-20ma / 4-20ma / 0-5v)
+     f.- Configuracion PID (0,1,2,3,4,5,6)
      
      
      z.- Leer numero version del firmware
@@ -117,6 +121,7 @@ FRAME_PWM1_WRITE   = ":01607"
 FRAME_COND_WRITE   = ":01608"
 FRAME_CONA_WRITE   = ":01609"
 FRAME_VERSION_READ = ":0131A0000"
+FRAME_CPID_WRITE   = ":0160A"
 
 
 FRAME_RELE1_ON  = ":016040008"
@@ -206,6 +211,10 @@ while True:
   elif c=='e':
     CONA_state = (CONA_state + 1) % 3
     send_frame(FRAME_CONA_WRITE + CONA_value[CONA_state])
+    
+  elif c=='f':
+    PID_CONF_state = (PID_CONF_state + 1) % 7
+    send_frame(FRAME_CPID_WRITE + PID_CONF_value[PID_CONF_state])
 
   elif c=='z':
     send_frame(FRAME_VERSION_READ)
