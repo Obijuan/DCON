@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="DCON_Input_signals_diagram.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path4838"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4702"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4255"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path4140"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4140-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4255-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-34"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4255-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4255-10"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-2"
+       style="overflow:visible">
+      <path
+         id="path4140-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7192"
+       style="overflow:visible">
+      <path
+         id="path7194"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="434.26881"
+     inkscape:cy="463.63497"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1863"
+     inkscape:window-height="1176"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4104"
+       width="673.35516"
+       height="452.54834"
+       x="74.154434"
+       y="339.1572"
+       rx="4.9295774"
+       ry="6.5733213"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect4104-0"
+       width="514.76123"
+       height="402.01102"
+       x="220.62659"
+       y="374.51254"
+       rx="3.7685242"
+       ry="5.8392606"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5563"
+       width="62.629463"
+       height="30.304575"
+       x="561.34387"
+       y="531.04297"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5563-1"
+       width="62.629463"
+       height="30.304575"
+       x="517.37561"
+       y="475.48456"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="139.69618"
+       y="217.40422"
+       id="text3013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="139.69618"
+         y="217.40422" /></text>
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3043-4"
+       width="33.587574"
+       height="16.414978"
+       x="587.48145"
+       y="613.8136"
+       rx="3.2391164"
+       ry="3.553951"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="590.44196"
+       y="626.36139"
+       id="text3009-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3011-2"
+         x="590.44196"
+         y="626.36139"
+         style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold">USB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="638.64954"
+       y="635.76263"
+       id="text3925-7-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3927-0-6"
+         x="638.64954"
+         y="635.76263">VDD</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-24-9"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="translate(514.30802,504.58851)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 632.41941,633.69605 0,10.294 -22.98097,0 0,-13.4327"
+       id="path4007-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 598.60477,630.20025 0,24.6428"
+       id="path4108"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3933-8-6"
+       transform="translate(437.13912,419.01409)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3111-5-9"
+         d="m 156.00543,236.25363 10.16466,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3913-4-4"
+         d="m 155.8476,236.31676 5.08232,4.89293"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3913-6-3-5"
+         d="m 166.13852,236.31676 -4.89292,4.89293"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="585.84351"
+       y="674.4848"
+       id="text3925-6-8-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3927-2-6-6"
+         x="585.84351"
+         y="674.4848">GND</tspan></text>
+    <rect
+       style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3043-5"
+       width="34.348267"
+       height="15.527378"
+       x="202.84122"
+       y="611.69653"
+       rx="3.3124762"
+       ry="3.3617797"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="209.73024"
+       y="623.35663"
+       id="text3009-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3011-29"
+         x="209.73024"
+         y="623.35663"
+         style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold">DI0</tspan></text>
+    <g
+       id="g6994"
+       transform="translate(140.22047,-77.142857)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="3.6633036"
+         rx="3.6774929"
+         y="780.08594"
+         x="63.648865"
+         height="16.920053"
+         width="38.133255"
+         id="rect3043-0-0-8-5"
+         style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3009-9-6-6"
+         y="792.63367"
+         x="67.36692"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold"
+           y="792.63367"
+           x="67.36692"
+           id="tspan3011-6-0-1"
+           sodipodi:role="line">COM</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="115.04787"
+       y="357.65039"
+       id="text2997-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="115.04787"
+         y="357.65039"
+         id="tspan3003-4"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">ENTRADAS DIGITALES</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,582.29942 -11.10473,3.63428 0,0"
+       id="path2994-32"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,589.36608 -11.10473,-3.63428 0,0"
+       id="path2994-6-87"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,589.56797 -11.10473,3.63428 0,0"
+       id="path2994-8-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,596.63463 -11.10473,-3.63428 0,0"
+       id="path2994-6-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,596.63462 -11.10473,3.63428 0,0"
+       id="path2994-1-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,603.70128 -11.10473,-3.63429 0,0"
+       id="path2994-6-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,603.90317 -11.10473,3.63428 0,0"
+       id="path2994-8-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,610.96983 -11.10473,-3.63428 0,0"
+       id="path2994-6-8-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,610.96983 -5.45141,2.01905 0,0"
+       id="path2994-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.35759,582.09753 -5.45141,-2.12001 0,0"
+       id="path2994-6-7-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.90618,580.17942 0,-50.99642"
+       id="path3102-11"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.90618,612.88792 0,7.26855"
+       id="path3104-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="288.98184"
+       y="599.58893"
+       id="text3888-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3890-7"
+         x="288.98184"
+         y="599.58893">4k7</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-3"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="translate(161.76055,400.76296)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="265.38779"
+       y="516.58002"
+       id="text3925-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3927-1"
+         x="265.38779"
+         y="516.58002">VDD</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-24"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0.41074434,0,0,0.41074434,231.46294,523.28403)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-8-6"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0.41074434,0,0,0.41074434,231.71548,568.7409)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 237.51221,620.83688 197.72774,0"
+       id="path3892-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3043-5-2"
+       width="34.348267"
+       height="15.527378"
+       x="202.84122"
+       y="654.19653"
+       rx="3.3124762"
+       ry="3.3617797"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="209.73024"
+       y="665.85669"
+       id="text3009-4-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3011-29-0"
+         x="209.73024"
+         y="665.85669"
+         style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold">DI1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 237.58489,661.8254 227.73033,0 0,-0.21262 68.83382,0 -0.25254,15.94118"
+       id="path3892-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="337.83664"
+       y="512.005"
+       id="text3537-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3539-8-9"
+         x="337.83664"
+         y="512.005"
+         style="font-size:8px;fill:#000000" /></text>
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3043-5-3"
+       width="61.13398"
+       height="34.455948"
+       x="488.478"
+       y="679.19653"
+       rx="2.23492"
+       ry="2.4862061"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="503.68591"
+       y="703.35669"
+       id="text3009-4-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3011-29-5"
+         x="503.68591"
+         y="703.35669"
+         style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold">DINS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="541.03772"
+       y="687.31219"
+       id="text3537"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3539"
+         x="541.03772"
+         y="687.31219"
+         style="font-size:8px;fill:#000000">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="532.19891"
+       y="687.31219"
+       id="text3537-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3539-8"
+         x="532.19891"
+         y="687.31219"
+         style="font-size:8px;fill:#000000">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,582.35337 -11.10473,3.63428 0,0"
+       id="path2994-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,589.42003 -11.10473,-3.63428 0,0"
+       id="path2994-6-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,589.62192 -11.10473,3.63428 0,0"
+       id="path2994-8-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,596.68858 -11.10473,-3.63428 0,0"
+       id="path2994-6-8-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,596.68857 -11.10473,3.63428 0,0"
+       id="path2994-1-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,603.75523 -11.10473,-3.63429 0,0"
+       id="path2994-6-9-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,603.95712 -11.10473,3.63428 0,0"
+       id="path2994-8-2-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,611.02378 -11.10473,-3.63428 0,0"
+       id="path2994-6-8-1-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,611.02378 -5.45141,2.01905 0,0"
+       id="path2994-3-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.29974,582.15148 -5.45141,-2.12001 0,0"
+       id="path2994-6-7-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.84833,580.23337 0,-5.43687"
+       id="path3102-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.84833,612.94187 0,48.69712"
+       id="path3104-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="349.11057"
+       y="599.64288"
+       id="text3888-7-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3890-5-0"
+         x="349.11057"
+         y="599.64288">4k7</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.30546,574.82147 -57.37132,0"
+       id="path4030-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0.41074434,0,0,0.41074434,289.31881,610.13585)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="326.36118"
+       y="549.51715"
+       id="text3888-6-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3890-7-9"
+         x="326.36118"
+         y="549.51715">Resistencias</tspan><tspan
+         sodipodi:role="line"
+         x="326.36118"
+         y="564.51715"
+         id="tspan4631">de <tspan
+   style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
+   id="tspan4633">pull-up</tspan></tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1-8"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0.41074434,0,0,0.41074434,386.81881,569.60014)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 435.5206,620.34919 0,-131.97601 43.52165,0"
+       id="path4665"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 435.16347,620.96632 108.35687,0 0,56.72472"
+       id="path5145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1-8-6"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0.41074434,0,0,0.41074434,416.49513,610.1993)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 465.04898,661.59723 0,-114.3037 57.15027,0 0,-0.72103 0,0"
+       id="path4665-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3.00000001;stroke-dashoffset:0"
+       id="rect5397"
+       width="107.45975"
+       height="138.57143"
+       x="268.7919"
+       y="536.57251"
+       rx="2.2682307"
+       ry="4.0676398"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1-8-9-4"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0,0.41074434,-0.41074434,0,574.19778,498.33463)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1-8-9-3-0"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0,0.41074434,-0.41074434,0,593.39068,498.33463)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 522.461,546.74635 16.04702,-10.63913"
+       id="path4665-0-5-3"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-8.3043885"
+       inkscape:transform-center-y="-6.7056058"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3043-5-3-2"
+       width="158.99113"
+       height="31.859398"
+       x="468.85547"
+       y="407.74731"
+       rx="1.9632949"
+       ry="2.2016304"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="536.74969"
+       y="423.79065"
+       id="text3009-4-9-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3011-29-5-8"
+         x="536.74969"
+         y="423.79065"
+         style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold">CIAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="601.46967"
+       y="434.51523"
+       id="text3537-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3539-5"
+         x="601.46967"
+         y="434.51523"
+         style="font-size:8px;fill:#000000">3...0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="502.97989"
+       y="435.52539"
+       id="text3537-3-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3539-8-5"
+         x="502.97989"
+         y="435.52539"
+         style="font-size:8px;fill:#000000">7...4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="592.26086"
+       y="542.65973"
+       id="text5553"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5555"
+         x="592.26086"
+         y="542.65973"
+         style="font-size:12px;text-align:center;text-anchor:middle">Detector</tspan><tspan
+         sodipodi:role="line"
+         x="592.26086"
+         y="557.65973"
+         id="tspan5559"
+         style="font-size:12px;text-align:center;text-anchor:middle">Alarma I0</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1-8-9-4-9"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0,0.41074434,-0.41074434,0,531.14991,439.74578)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 498.81572,488.44757 19.00968,0"
+       id="path4665-0-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3923-2-2-1-8-9-3-0-5"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0,0.41074434,-0.41074434,0,550.34281,439.74578)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 479.41313,488.1575 16.04702,-10.63913"
+       id="path4665-0-5-3-4"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-8.3043885"
+       inkscape:transform-center-y="-6.7056058"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="548.2926"
+       y="487.10132"
+       id="text5553-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5555-7"
+         x="548.2926"
+         y="487.10132"
+         style="font-size:12px;text-align:center;text-anchor:middle">Detector</tspan><tspan
+         sodipodi:role="line"
+         x="548.2926"
+         y="502.10132"
+         id="tspan5559-6"
+         style="font-size:12px;text-align:center;text-anchor:middle">Alarma I1</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99999999, 3;stroke-dashoffset:0"
+       id="rect5397-5"
+       width="119.0765"
+       height="42.412594"
+       x="469.69586"
+       y="468.6936"
+       rx="2.5134339"
+       ry="1.2449837"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99999999, 2.99999999;stroke-dashoffset:0"
+       id="rect5397-5-1"
+       width="113.00507"
+       height="43.126877"
+       x="516.21283"
+       y="524.4079"
+       rx="2.3852799"
+       ry="1.2659508"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 542.11847,546.66186 19.00968,0"
+       id="path4665-0-2-2-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="493.07758"
+       y="722.64398"
+       id="text5718"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5720"
+         x="493.07758"
+         y="722.64398"
+         style="font-size:8px;fill:#0000ff">Reg. Entradas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="548.65515"
+       y="390.90646"
+       id="text5718-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5720-6"
+         x="548.65515"
+         y="390.90646"
+         style="font-size:8px;text-align:center;text-anchor:middle;fill:#0000ff">Reg. Config.</tspan><tspan
+         sodipodi:role="line"
+         x="548.65515"
+         y="400.90646"
+         style="font-size:8px;text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan5743">alarmas de entrada</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
+       d="m 506.05397,460.38205 4.71875,0 0.125,-17.15863 c 1.29167,0.007 2.58333,0.003 3.875,0 l 0.125,17.15863 4.6875,0 -6.76563,7.5 z"
+       id="path6347"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 505.80784,455.6822 13.1017,-7.56427"
+       id="path6386"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="519.5578"
+       y="454.61075"
+       id="text6388"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6390"
+         x="519.5578"
+         y="454.61075"
+         style="font-size:10px">4</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
+       d="m 602.90245,516.37117 4.71875,0 0.125,-72.86548 c 1.29167,0.007 2.58333,0.003 3.875,0 l 0.125,72.86548 4.6875,0 -6.76563,7.5 z"
+       id="path6347-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 602.96835,483.06039 13.1017,-7.56427"
+       id="path6386-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="616.71826"
+       y="481.98892"
+       id="text6388-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6390-3"
+         x="616.71826"
+         y="481.98892"
+         style="font-size:10px">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="290.28925"
+       y="421.64792"
+       id="text6478"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6480"
+         x="290.28925"
+         y="421.64792"
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Modos config. Alarma:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="266.29068"
+       y="441.05618"
+       id="text6478-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6480-5"
+         x="266.29068"
+         y="441.05618"
+         style="font-size:10px"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan6511">0</tspan>: No Alarma</tspan><tspan
+         sodipodi:role="line"
+         x="266.29068"
+         y="453.55618"
+         style="font-size:10px"
+         id="tspan6505"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan6513">1</tspan>: Activada cuando entrada es 1</tspan><tspan
+         sodipodi:role="line"
+         x="266.29068"
+         y="466.05618"
+         style="font-size:10px"
+         id="tspan6509"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan6515">2</tspan>: Activada cuando entrada es 0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
+       d="m 579.32246,489.20307 118.62912,0"
+       id="path6517"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2);display:inline"
+       d="m 629.32503,545.26118 69.49948,0"
+       id="path6517-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99999999, 2.99999999;stroke-dashoffset:0;display:inline"
+       id="rect5397-2"
+       width="180.31688"
+       height="66.428574"
+       x="258.07761"
+       y="406.99963"
+       rx="3.8060791"
+       ry="1.9499511"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 468.7919,424.1479 -30.35714,0"
+       id="path6949"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="675.86957"
+       y="466.17786"
+       id="text6951"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6953"
+         x="677.77972"
+         y="466.17786"
+         style="font-size:12px;text-align:center;text-anchor:middle">Disparo </tspan><tspan
+         sodipodi:role="line"
+         x="675.86957"
+         y="481.17786"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="tspan7035">Alarma I0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="676.72449"
+       y="525.04517"
+       id="text6951-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6953-1"
+         x="678.63464"
+         y="525.04517"
+         style="font-size:12px;text-align:center;text-anchor:middle">Disparo </tspan><tspan
+         sodipodi:role="line"
+         x="676.72449"
+         y="540.04517"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="tspan7037">Alarma I1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 241.25256,710.97193 34.04125,0 0,12.7532"
+       id="path3109-75"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline"
+       id="g3933-7"
+       transform="translate(114.72102,487.75563)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3111-6"
+         d="m 156.00543,236.25363 10.16466,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3913-7"
+         d="m 155.8476,236.31676 5.08232,4.89293"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3913-6-2"
+         d="m 166.13852,236.31676 -4.89292,4.89293"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="263.48279"
+       y="741.53784"
+       id="text3925-6-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3927-2-2"
+         x="263.48279"
+         y="741.53784">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="678.995"
+       y="394.8317"
+       id="text2997-8-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="678.995"
+         y="394.8317"
+         id="tspan3003-4-9"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">DCON</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);display:inline"
+       d="m 200.82264,619.58345 -34.69646,0"
+       id="path4110-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);display:inline"
+       d="m 200.65344,662.11314 -34.69646,0"
+       id="path4110-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 201.93618,711.83025 -97.91479,0"
+       id="path3959-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96119279;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3923-2-2-8-4-3"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(1.040374,0,0,1.040374,43.636613,488.71685)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 139.32287,618.96935 21.69112,-15.6868"
+       id="path4176-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96119279;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3923-2-2-8-4-8-8"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(1.040374,0,0,1.040374,15.857415,488.71685)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 138.66424,618.96935 -34.28571,0"
+       id="path4198-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96119279;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3923-2-2-8-4-6-9"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(1.040374,0,0,1.040374,43.636603,531.60374)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 139.32287,661.85624 21.69111,-15.6869"
+       id="path4176-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96119279;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3923-2-2-8-4-8-4-5"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(1.040374,0,0,1.040374,15.857415,531.60374)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 138.66424,661.85624 -34.28571,0"
+       id="path4198-1-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 104.02139,619.2522 0,92.39255"
+       id="path4244-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.43460441;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path3923-2-2-6-6"
+       sodipodi:cx="118.06158"
+       sodipodi:cy="125.42095"
+       sodipodi:rx="3.4092648"
+       sodipodi:ry="3.4092648"
+       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       transform="matrix(0.41074434,0,0,0.41074434,55.528263,610.13674)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="141.96059"
+       y="576.0379"
+       id="text4264-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4266-0"
+         x="141.96059"
+         y="576.0379">Interruptores</tspan><tspan
+         sodipodi:role="line"
+         x="141.96059"
+         y="591.0379"
+         id="tspan4268-0">externos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="138.04253"
+       y="556.37579"
+       id="text4264-8-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="138.04253"
+         y="556.37579"
+         id="tspan4268-0-0">Ejemplo de uso:</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 5.99999993;stroke-dashoffset:0;display:inline"
+       id="rect5397-57"
+       width="60.316891"
+       height="165.71428"
+       x="191.64903"
+       y="583.00104"
+       rx="1.2731522"
+       ry="4.8643937"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="146.61397"
+       y="494.9472"
+       id="text4264-8-0-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="146.61397"
+         y="494.9472"
+         id="tspan7336">Conector de Interfaz</tspan><tspan
+         sodipodi:role="line"
+         x="146.61397"
+         y="509.9472"
+         id="tspan7344"> Superior (P3)</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
+       d="m 190,204.09449 17.14286,67.14285"
+       id="path7348"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
