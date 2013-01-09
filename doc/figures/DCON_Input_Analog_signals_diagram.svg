@@ -614,10 +614,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="643.4236"
-     inkscape:cy="319.59126"
+     inkscape:cx="574.27824"
+     inkscape:cy="298.30732"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1863"
      inkscape:window-height="1176"
@@ -648,7 +648,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="8.943572"
        rx="6.6228514"
        y="369.07452"
@@ -660,7 +660,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="7.9683132"
        rx="6.1313043"
        y="426.21738"
@@ -701,7 +701,7 @@
     <g
        id="g11471"
        transform="translate(-894.99515,359.6143)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -813,7 +813,7 @@
        width="38.133255"
        id="rect3043-0-0-8-5"
        style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -823,7 +823,7 @@
        x="60.869625"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:12px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans Bold"
@@ -846,7 +846,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path3109-75"
        d="m 94.534652,924.51458 34.041338,0 0,12.7532"
@@ -854,7 +854,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3925-6-0"
        y="959.58777"
@@ -868,7 +868,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text2997-8-7"
        y="447.9343"
@@ -883,7 +883,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="11.825509"
        rx="1.3937678"
        y="540.82941"
@@ -895,7 +895,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-3"
        y="445.63272"
@@ -913,7 +913,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path7348"
        d="m 116.13929,457.33342 -32.8572,77.14285"
@@ -922,7 +922,7 @@
     <g
        id="g3933-9-3-1-3"
        transform="matrix(2.3144062,0,0,2.3144062,-186.40304,138.24131)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -948,7 +948,7 @@
        y="401.11536"
        id="text2997-3-3"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -959,7 +959,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="1.9728342"
        rx="1.946627"
        y="561.99231"
@@ -971,7 +971,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-5"
        y="573.6524"
@@ -986,7 +986,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="1.9728342"
        rx="1.946627"
        y="637.06238"
@@ -998,7 +998,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-5-3"
        y="648.72247"
@@ -1013,7 +1013,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1"
        d="m 416.32666,624.94152 -262.80928,0"
@@ -1021,7 +1021,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-7-3"
        d="m 132.8618,571.08344 -36.116546,0"
@@ -1029,9 +1029,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,1.040374,29.77588,495.52022)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1042,7 +1042,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4176-2-2-1"
        d="m 132.19269,646.19387 24.81922,-16.78765"
@@ -1052,9 +1052,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,1.040374,8.6493374,515.85633)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1065,7 +1065,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-1"
        d="m 131.45617,646.10883 -34.285711,0"
@@ -1073,7 +1073,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-0"
        d="m 152.09625,660.65581 34.69646,0 0,23.61346"
@@ -1081,9 +1081,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,1.040374,29.775876,530.52023)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1094,7 +1094,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0"
        y="656.97211"
@@ -1109,7 +1109,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-3"
        y="620.98425"
@@ -1124,7 +1124,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-6"
        d="m 152.91369,592.08438 119.05977,0 0,26.92236 144.20939,0"
@@ -1132,9 +1132,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,-1.040374,29.775874,722.54001)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1145,7 +1145,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4176-2-2-1-3"
        d="m 132.19268,571.86636 24.81922,16.78765"
@@ -1155,9 +1155,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,-1.040374,8.6493355,702.2039)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1168,7 +1168,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-3-7"
        y="588.12708"
@@ -1183,7 +1183,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-6-0"
        d="m 272.72792,549.94152 -119.81108,0"
@@ -1191,9 +1191,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,-1.040374,29.775876,680.39715)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1204,7 +1204,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-3-7-3"
        y="545.98419"
@@ -1225,7 +1225,7 @@
        y="534.81689"
        rx="3.5962241"
        ry="3.3187168"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -1235,7 +1235,7 @@
        y="554.81683"
        id="text6261-0-8-4"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:12px"
@@ -1252,7 +1252,7 @@
        y="532.9314"
        rx="2.3136547"
        ry="2.2266693"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -1262,7 +1262,7 @@
        y="581.87921"
        id="text6261-0-8-44"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -1276,7 +1276,7 @@
        y="595.22656"
        id="text6261-0-8-9-0"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:10px"
@@ -1287,7 +1287,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.4862061"
        rx="2.23492"
        y="458.76151"
@@ -1299,7 +1299,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-9-5"
        y="476.86075"
@@ -1314,7 +1314,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3537-6-9"
        y="490.03387"
@@ -1329,7 +1329,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-3-7"
        y="441.05103"
@@ -1353,7 +1353,7 @@
        y="623.51086"
        id="text6261-0-8-9-0-5"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:8px"
@@ -1368,7 +1368,7 @@
        y="555.00433"
        id="text6261-0-8-9-0-5-9"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:8px"
@@ -1380,7 +1380,7 @@
        style="display:inline"
        id="g3933-9-3-1-3-6"
        transform="matrix(2.3144062,0,0,2.3144062,27.244222,14.876431)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -1402,7 +1402,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-6-0-4"
        d="m 415.91321,549.94152 -41.18165,0"
@@ -1410,7 +1410,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-0-5"
        d="m 415.00699,553.51295 -15.76789,0 0,8.25632"
@@ -1418,7 +1418,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2"
        d="m 533.3703,585.12076 -51.66299,0"
@@ -1426,7 +1426,7 @@
     <g
        id="g8961"
        transform="translate(4.2857143,0)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -1460,7 +1460,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-4"
        y="561.56195"
@@ -1480,7 +1480,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.2016304"
        rx="1.023984"
        y="508.20813"
@@ -1492,7 +1492,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-9-4-5"
        y="522.82288"
@@ -1507,7 +1507,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3537-6-8"
        y="534.97601"
@@ -1522,7 +1522,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-3-3"
        y="493.89267"
@@ -1542,7 +1542,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-4-5"
        y="576.65216"
@@ -1557,7 +1557,7 @@
     <g
        id="g8996"
        transform="translate(71.383966,4.1175011)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -1591,7 +1591,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="0"
        rx="0"
        y="577.16919"
@@ -1603,9 +1603,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,659.08049,564.66391)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1616,9 +1616,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,678.27339,564.66391)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1629,7 +1629,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:transform-center-y="-6.7056058"
        inkscape:transform-center-x="-8.3043885"
        inkscape:connector-curvature="0"
@@ -1639,7 +1639,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5553-2"
        y="597.87732"
@@ -1659,7 +1659,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.2933443"
        rx="4.2698979"
        y="559.09198"
@@ -1671,7 +1671,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4665-0-2-2-1-1"
        d="m 628.37909,612.99114 81.40861,0"
@@ -1679,7 +1679,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4"
        d="m 607.15962,613.40503 -98.5087,0"
@@ -1687,7 +1687,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4665-0-2-2-1-1-4"
        d="m 679.29055,589.25254 30.0933,0"
@@ -1695,7 +1695,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-9-9"
        y="579.24854"
@@ -1712,13 +1712,13 @@
        d="m 486.96428,590.57647 9.64286,-9.64285"
        id="path9103"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-9-9-4"
        y="583.60419"
@@ -1735,7 +1735,7 @@
        d="m 689.64285,594.93216 9.64286,-9.64285"
        id="path9103-0"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -1756,7 +1756,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path6347-0-9"
@@ -1765,7 +1765,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path6386-1-4"
        d="m 716.23282,554.83054 13.1017,-7.56427"
@@ -1773,7 +1773,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-93-4"
        y="553.75909"
@@ -1788,7 +1788,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="5.2178564"
        rx="0.94366282"
        y="500.87955"
@@ -1803,13 +1803,13 @@
        id="path6347-0-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-93-6"
        y="511.82693"
@@ -1826,13 +1826,13 @@
        d="M 327.25693,513.56249 338.77479,502.3125"
        id="path9103-3"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path6517-2-6"
        d="m 790.82146,601.73096 69.4995,0"
@@ -1840,7 +1840,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6951-9-1"
        y="577.94354"
@@ -1860,9 +1860,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,560.08554,536.37964)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1873,7 +1873,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4-6"
        d="m 508.53408,613.96673 0,-29.70353"
@@ -1881,9 +1881,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,560.08554,564.68321)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -1894,7 +1894,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4-6-8"
        d="m 508.53408,681.7599 0,-67.6864"
@@ -1903,7 +1903,7 @@
        style="display:inline"
        id="g3933-9-3-1-3-9"
        transform="matrix(2.3144062,0,0,2.3144062,-186.40304,360.47487)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -1925,7 +1925,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="1.9728342"
        rx="1.946627"
        y="784.22589"
@@ -1937,7 +1937,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-5-5"
        y="795.88599"
@@ -1952,7 +1952,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="1.9728342"
        rx="1.946627"
        y="859.29596"
@@ -1964,7 +1964,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-5-3-5"
        y="870.95605"
@@ -1979,7 +1979,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-00"
        d="m 416.32667,847.17508 -262.80928,0"
@@ -1987,7 +1987,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-7-3-5"
        d="m 132.8618,793.317 -36.116546,0"
@@ -1995,9 +1995,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,1.040374,29.77588,717.75378)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2008,7 +2008,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4176-2-2-1-6"
        d="m 132.19269,868.42743 24.81923,-16.78765"
@@ -2018,9 +2018,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,1.040374,8.649338,738.08989)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2031,7 +2031,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-1-6"
        d="m 131.45617,868.34239 -34.285711,0"
@@ -2039,7 +2039,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-0-1"
        d="m 152.09626,882.88937 34.69646,0 0,23.61346"
@@ -2047,9 +2047,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,1.040374,29.775876,752.75379)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2060,7 +2060,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-7"
        y="879.20569"
@@ -2075,7 +2075,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-3-9"
        y="843.21783"
@@ -2090,7 +2090,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-6-4"
        d="m 152.91369,814.31794 119.05978,0 0,26.92236 144.20939,0"
@@ -2098,9 +2098,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,-1.040374,29.775874,944.77357)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2111,7 +2111,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4176-2-2-1-3-7"
        d="m 132.19268,794.09992 24.81923,16.78765"
@@ -2121,9 +2121,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,-1.040374,8.649336,924.43746)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2134,7 +2134,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-3-7-6"
        y="810.36066"
@@ -2149,7 +2149,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-6-0-3"
        d="m 272.72793,772.17508 -119.81109,0"
@@ -2157,9 +2157,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(1.040374,0,0,-1.040374,29.775876,902.63071)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2170,7 +2170,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text4264-8-0-0-3-7-3-7"
        y="768.21777"
@@ -2191,7 +2191,7 @@
        y="757.05048"
        rx="3.5962241"
        ry="3.3187168"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -2201,7 +2201,7 @@
        y="777.05042"
        id="text6261-0-8-4-0"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:12px"
@@ -2218,7 +2218,7 @@
        y="755.16498"
        rx="2.3136547"
        ry="2.2266693"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -2228,7 +2228,7 @@
        y="804.11279"
        id="text6261-0-8-44-5"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -2242,7 +2242,7 @@
        y="817.46014"
        id="text6261-0-8-9-0-7"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:10px"
@@ -2253,7 +2253,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.4862061"
        rx="2.23492"
        y="680.99506"
@@ -2265,7 +2265,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-9-5-3"
        y="699.0943"
@@ -2280,7 +2280,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3537-6-9-2"
        y="712.26746"
@@ -2295,7 +2295,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-3-7-0"
        y="663.28461"
@@ -2319,7 +2319,7 @@
        y="845.74445"
        id="text6261-0-8-9-0-5-4"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:8px"
@@ -2334,7 +2334,7 @@
        y="777.23792"
        id="text6261-0-8-9-0-5-9-3"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:8px"
@@ -2346,7 +2346,7 @@
        style="display:inline"
        id="g3933-9-3-1-3-6-5"
        transform="matrix(2.3144062,0,0,2.3144062,27.244222,237.10999)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -2368,7 +2368,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-6-0-4-9"
        d="m 415.91322,772.17508 -41.18165,0"
@@ -2376,7 +2376,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4110-8-9-1-0-5-1"
        d="m 415.007,775.74651 -15.7679,0 0,8.25632"
@@ -2384,7 +2384,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-2"
        d="m 533.37031,807.35432 -51.66299,0"
@@ -2393,7 +2393,7 @@
        style="display:inline"
        id="g8961-9"
        transform="translate(4.285715,222.23356)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -2427,7 +2427,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-4-6"
        y="783.79553"
@@ -2447,7 +2447,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.2016304"
        rx="1.023984"
        y="888.01532"
@@ -2459,7 +2459,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-9-4-5-4"
        y="913.34436"
@@ -2474,7 +2474,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3537-6-8-2"
        y="897.9975"
@@ -2489,7 +2489,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-3-3-8"
        y="930.72009"
@@ -2509,7 +2509,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-4-5-0"
        y="797.37048"
@@ -2524,7 +2524,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="1.2492447"
        rx="1.4841808"
        y="801.0752"
@@ -2536,7 +2536,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text3009-4-9-1-8-7"
        y="813.81201"
@@ -2553,7 +2553,7 @@
        d="m 544.49372,682.04088 -36.11656,0"
        id="path4198-7-3-5-3"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2563,13 +2563,13 @@
        d="m 567.99383,703.1551 -31.10285,10.6686"
        id="path4176-2-2-1-3-7-9"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="0"
        rx="0"
        y="799.40277"
@@ -2581,9 +2581,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,659.0805,786.89747)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2594,9 +2594,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,678.2734,786.89747)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2607,7 +2607,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:transform-center-y="-6.7056058"
        inkscape:transform-center-x="-8.3043885"
        inkscape:connector-curvature="0"
@@ -2617,7 +2617,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5553-2-2"
        y="820.1109"
@@ -2637,7 +2637,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.2933443"
        rx="4.2698979"
        y="781.32556"
@@ -2649,7 +2649,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4665-0-2-2-1-1-6"
        d="m 628.37909,835.2247 81.40861,0"
@@ -2657,7 +2657,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4-8"
        d="m 607.15962,835.63859 -98.50869,0"
@@ -2665,7 +2665,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4665-0-2-2-1-1-4-0"
        d="m 679.29056,811.4861 30.0933,0"
@@ -2673,7 +2673,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-9-9-7"
        y="801.48212"
@@ -2690,13 +2690,13 @@
        d="m 486.96429,812.81003 9.64285,-9.64285"
        id="path9103-7"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-9-9-4-5"
        y="805.83777"
@@ -2713,13 +2713,13 @@
        d="m 689.64286,817.16572 9.64286,-9.64285"
        id="path9103-0-4"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path6347-0-9-0"
@@ -2728,7 +2728,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-93-4-4"
        y="876.72729"
@@ -2743,7 +2743,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="5.2178564"
        rx="0.94366282"
        y="723.1131"
@@ -2758,13 +2758,13 @@
        id="path6347-0-2-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6388-93-6-5"
        y="734.06049"
@@ -2781,13 +2781,13 @@
        d="M 327.25693,735.79605 338.7748,724.54606"
        id="path9103-3-3"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path6517-2-6-8"
        d="m 790.82146,823.96452 69.4995,0"
@@ -2795,7 +2795,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text6951-9-1-4"
        y="800.17712"
@@ -2815,9 +2815,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,560.08555,758.6132)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2828,7 +2828,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4-6-6"
        d="m 508.53408,836.20029 0,-29.70353"
@@ -2836,7 +2836,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4-6-8-1"
        d="m 508.53408,805.44592 0,-81.04787"
@@ -2846,15 +2846,15 @@
        d="m 724.47991,877.88362 9.64285,-9.64285"
        id="path9103-7-3"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,595.79982,633.61178)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2865,9 +2865,9 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,595.44268,676.46892)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2880,15 +2880,15 @@
        d="m 544.49372,724.89802 -36.11656,0"
        id="path4198-7-3-5-3-9"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        transform="matrix(0,0.41074434,-0.41074434,0,619.66468,654.82498)"
-       d="m 121.47084,125.42095 a 3.4092648,3.4092648 0 1 1 -6.81853,0 3.4092648,3.4092648 0 1 1 6.81853,0 z"
+       d="m 121.47084,125.42095 c 0,1.88289 -1.52638,3.40927 -3.40926,3.40927 -1.88289,0 -3.40927,-1.52638 -3.40927,-3.40927 0,-1.88288 1.52638,-3.40926 3.40927,-3.40926 1.88288,0 3.40926,1.52638 3.40926,3.40926 z"
        sodipodi:ry="3.4092648"
        sodipodi:rx="3.4092648"
        sodipodi:cy="125.42095"
@@ -2899,7 +2899,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path4198-1-8-2-4-1"
        d="m 601.76835,702.69074 -34.86901,0"
@@ -2913,7 +2913,7 @@
        y="681.42383"
        rx="2.3136547"
        ry="0.920394"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -2923,7 +2923,7 @@
        y="708.14832"
        id="text6261-0-8-44-5-6"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -2934,7 +2934,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        ry="2.2933443"
        rx="0.92281622"
        y="664.89697"
@@ -2947,7 +2947,7 @@
        style="display:inline"
        id="g8961-9-8"
        transform="translate(4.2857165,66.164993)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
@@ -2981,7 +2981,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        sodipodi:linespacing="125%"
        id="text5718-4-6-5"
        y="653.79553"
@@ -2996,7 +2996,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path6517-2-6-9"
        d="m 668.08792,702.99875 40.54848,0"
@@ -3004,7 +3004,7 @@
     <g
        id="g11314"
        transform="translate(-324.50979,409.19228)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <text
@@ -3069,88 +3069,81 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path6949-5"
        d="m 662.15714,903.58737 24.99736,0"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2.99999999;stroke-dashoffset:0;display:inline"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g11406"
-       transform="translate(-79.285714,-9.2857142)"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+    <text
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <text
-         xml:space="preserve"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="477.21677"
-         y="459.14139"
-         id="text6478-1-9"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           sodipodi:role="line"
-           id="tspan6480-6-0"
-           x="477.21677"
-           y="459.14139"
-           style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Configuración entradas (CONA)</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-         x="465.33994"
-         y="478.54965"
-         id="text6478-7-2-5"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           sodipodi:role="line"
-           id="tspan6480-5-9-9"
-           x="465.33994"
-           y="478.54965"
-           style="font-size:10px"><tspan
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
+       sodipodi:linespacing="125%"
+       id="text6478-1-9"
+       y="449.85568"
+       x="397.93106"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="449.85568"
+         x="397.93106"
+         id="tspan6480-6-0"
+         sodipodi:role="line">Configuración entradas (CONA)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
+       sodipodi:linespacing="125%"
+       id="text6478-7-2-5"
+       y="469.26395"
+       x="386.05423"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:10px"
+         y="469.26395"
+         x="386.05423"
+         id="tspan6480-5-9-9"
+         sodipodi:role="line"><tspan
+   id="tspan6511-8-3"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">0</tspan>: 0-20ma </tspan><tspan
+         id="tspan6505-9-7"
+         style="font-size:10px"
+         y="481.76395"
+         x="386.05423"
+         sodipodi:role="line"><tspan
+   id="tspan6513-0-8"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">1</tspan>: 4-20ma </tspan><tspan
+         id="tspan6509-1-7"
+         style="font-size:10px"
+         y="494.26395"
+         x="386.05423"
+         sodipodi:role="line"><tspan
+   id="tspan6515-8-8"
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold">2</tspan>: 0-5 v</tspan><tspan
+         style="font-size:10px"
+         y="506.76395"
+         x="386.05423"
+         sodipodi:role="line"
+         id="tspan11402"><tspan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="tspan6511-8-3">0</tspan>: Termopar</tspan><tspan
-           sodipodi:role="line"
-           x="465.33994"
-           y="491.04965"
-           style="font-size:10px"
-           id="tspan6505-9-7"><tspan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="tspan6513-0-8">1</tspan>: 0-20ma</tspan><tspan
-           sodipodi:role="line"
-           x="465.33994"
-           y="503.54965"
-           style="font-size:10px"
-           id="tspan6509-1-7"><tspan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="tspan6515-8-8">2</tspan>: 4-20ma</tspan><tspan
-           id="tspan11402"
-           sodipodi:role="line"
-           x="465.33994"
-           y="516.04968"
-           style="font-size:10px"><tspan
-   id="tspan11404"
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold">3</tspan>: 0-5 v</tspan></text>
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2.99999999;stroke-dashoffset:0;display:inline"
-         id="rect5397-2-1-8"
-         width="204.60258"
-         height="76.530098"
-         x="457.12692"
-         y="444.4931"
-         rx="4.3186951"
-         ry="2.2464724"
-         inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
+   id="tspan11404">3</tspan>: Termopar </tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
+       ry="2.2464724"
+       rx="4.3186951"
+       y="435.2074"
+       x="377.84122"
+       height="76.530098"
+       width="204.60258"
+       id="rect5397-2-1-8"
+       style="fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2.99999999;stroke-dashoffset:0;display:inline" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:connector-curvature="0"
        id="path6949-5-4"
        d="m 347.96573,475.73023 29.80879,0"
@@ -3161,7 +3154,7 @@
        d="m 117.0782,937.06124 23.52516,0"
        id="path3111-2-0-3-97-6-4"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -3170,7 +3163,7 @@
        id="path3913-7-4-6-9-9-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccsc"
-       inkscape:export-filename="/home/obijuan/development/DCON/doc/figures/DCON_Input_signals_diagram.png"
+       inkscape:export-filename="/home/obijuan/Desktop/DCON_Input_analog_signals_diagram.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
