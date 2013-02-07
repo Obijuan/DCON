@@ -12,6 +12,7 @@ DOUS_ADDR = 0x04
 AOUT_ADDR = 0x05
 PWM0_ADDR = 0x06
 PWM1_ADDR = 0x07
+COND_ADDR = 0x08
 
 #--- Modos de las tramas
 READ = 3
@@ -26,6 +27,10 @@ DO1 = T1 #-- DO1 y T1 son sinonimos
 
 R0 = 4  #-- Rele 0
 R1 = 8  #-- Rele 1
+
+#-- Modos config. salidas digitales
+PWM0 = 1  #-- Salida DO0 modo PWM
+PWM1 = 2  #-- Salida DO1 modo PWM
 
 
 class IncorrectFrame(Exception):
@@ -203,7 +208,7 @@ class Dcon(object):
     di1 = (value & 0x0002) >> 1
     
     #-- Return the inputs
-    return di0, di1
+    return di1, di0
     
   @property
   def AIN0(self):
@@ -326,13 +331,41 @@ class Dcon(object):
       print "ERROR EN COMUNICACIONES"
       return -1
       
-    return value
+    return valueinputs
   
   @PWM1.setter
   def PWM1(self, value):
     frame = Frame((self.dir, WRITE, PWM1_ADDR, value))
     frame_rx = self.send_frame(frame)  
     
+  @property
+  def COND(self):
+    """Configuration of digital outputs"""
+    frame = Frame((self.dir, READ, COND_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1, -1
     
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1, -1
+    
+    #-- Get the state of the configuration bits
+    cdo0 = value & 0x0001
+    cdo1 = (value & 0x0002) >> 1
+    
+    #-- Return the inputs
+    return cdo1, cdo0
+      
+    return value  
+    
+  @COND.setter
+  def COND(self, value):
+    frame = Frame((self.dir, WRITE, COND_ADDR, value))
+    frame_rx = self.send_frame(frame)  
     
     
