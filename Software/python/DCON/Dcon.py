@@ -9,6 +9,9 @@ DINS_ADDR = 0x01
 AIN0_ADDR = 0x02
 AIN1_ADDR = 0x03
 DOUS_ADDR = 0x04
+AOUT_ADDR = 0x05
+PWM0_ADDR = 0x06
+PWM1_ADDR = 0x07
 
 #--- Modos de las tramas
 READ = 3
@@ -261,10 +264,75 @@ class Dcon(object):
     frame = Frame((self.dir, WRITE, DOUS_ADDR, value))
     frame_rx = self.send_frame(frame)
   
+  @property
+  def AOUT(self):
+    """Digital outputs"""
+    frame = Frame((self.dir, READ, AOUT_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return value
   
+  @AOUT.setter
+  def AOUT(self, value):
+    frame = Frame((self.dir, WRITE, AOUT_ADDR, value))
+    frame_rx = self.send_frame(frame)
   
+  @property
+  def PWM0(self):
+    """Digital outputs"""
+    frame = Frame((self.dir, READ, PWM0_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return value
   
+  @PWM0.setter
+  def PWM0(self, value):
+    frame = Frame((self.dir, WRITE, PWM0_ADDR, value))
+    frame_rx = self.send_frame(frame)
+    
+  @property
+  def PWM1(self):
+    """Digital outputs"""
+    frame = Frame((self.dir, READ, PWM1_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return value
   
-  
-  
+  @PWM1.setter
+  def PWM1(self, value):
+    frame = Frame((self.dir, WRITE, PWM1_ADDR, value))
+    frame_rx = self.send_frame(frame)  
+    
+    
+    
     
