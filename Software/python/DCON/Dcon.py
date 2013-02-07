@@ -13,6 +13,7 @@ AOUT_ADDR = 0x05
 PWM0_ADDR = 0x06
 PWM1_ADDR = 0x07
 COND_ADDR = 0x08
+CONA_ADDR = 0x09
 
 #--- Modos de las tramas
 READ = 3
@@ -31,6 +32,12 @@ R1 = 8  #-- Rele 1
 #-- Modos config. salidas digitales
 PWM0 = 1  #-- Salida DO0 modo PWM
 PWM1 = 2  #-- Salida DO1 modo PWM
+
+#-- Modos de configuracion entradas/salidas analógicas
+M0_20ma = 0  #-- Modo 0 - 20 ma
+M4_20ma = 1  #-- Modo 4 - 20 ma
+M0_5v =   2  #-- Modo 0 - 5 v
+TERMO =   3  #-- Modo Termopar (solo entradas)
 
 
 class IncorrectFrame(Exception):
@@ -368,4 +375,36 @@ class Dcon(object):
     frame = Frame((self.dir, WRITE, COND_ADDR, value))
     frame_rx = self.send_frame(frame)  
     
+  @property
+  def CONA(self):
+    """Configuration of analog inputs/outputs"""
+    frame = Frame((self.dir, READ, CONA_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1, -1, -1
     
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1, -1, -1
+    
+    #-- Get the state of the configuration bits
+    cao = (value & 0x0F00) >> 8
+    cain1 = (value & 0x00F0) >> 4
+    cain0 = (value & 0x000F)
+    
+    #-- Return the inputs
+    return cao, cain1, cain0
+      
+    return value
+  
+  @CONA.setter
+  def CONA(self, value):
+    frame = Frame((self.dir, WRITE, CONA_ADDR, value))
+    frame_rx = self.send_frame(frame) 
+  
+  
+  
