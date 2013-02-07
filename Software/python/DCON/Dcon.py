@@ -5,10 +5,33 @@ import time
 
 #-- Registros de la DCON
 DIRC_ADDR = 0x00
+DINS_ADDR = 0x01
+AIN0_ADDR = 0x02
+AIN1_ADDR = 0x03
+DOUS_ADDR = 0x04
+
+#--- Modos de las tramas
 READ = 3
 WRITE = 6
 
+#-- Salidas digitales
+T0 = 1   #-- DO0: Transistor 0
+DO0 = T0 #-- DO0 y T0 son sinonimos
+
+T1 = 2   #-- DO1: Transistor 1
+DO1 = T1 #-- DO1 y T1 son sinonimos
+
+R0 = 4  #-- Rele 0
+R1 = 8  #-- Rele 1
+
+
 class IncorrectFrame(Exception):
+  def __init__(self, value):
+    self.value = value
+  def __str__(self):
+    return repr(self.value)
+
+class TimeOut(Exception):
   def __init__(self, value):
     self.value = value
   def __str__(self):
@@ -123,26 +146,125 @@ class Dcon(object):
       
       #--Frame received. Print it!
       print "--> (in)  " + rx_frame
-      return rx_frame
       
     else:
       #-- No response! timeout!
       print "TIMEOUT";
-      return ""
+      raise TimeOut(1)
+      
+    return rx_frame
 
+#------------------ ACCESS TO THE DCON REGISTERS!!! -----------------------
   @property
   def DIRC(self):
     """DCON current dir. register"""
     frame = Frame((self.dir, READ, DIRC_ADDR, 0));
-    self.send_frame(frame)
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return dir
 
   @DIRC.setter
   def DIRC(self, value):
     frame = Frame((self.dir, WRITE, DIRC_ADDR, value))
-    self.send_frame(frame)
+    frame_rx = self.send_frame(frame)
     
+
+  @property
+  def DINS(self):
+    """Digital INPUTS. It returns the state of the 2 digital inputs"""
+    frame = Frame((self.dir, READ, DINS_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1,-1
     
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1,-1
     
+    #-- Get the state of the inputs
+    di0 = value & 0x0001
+    di1 = (value & 0x0002) >> 1
     
+    #-- Return the inputs
+    return di0, di1
     
+  @property
+  def AIN0(self):
+    """Analog input 0"""
+    frame = Frame((self.dir, READ, AIN0_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return value
+  
+  @property
+  def AIN1(self):
+    """Analog input 1"""
+    frame = Frame((self.dir, READ, AIN1_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return value
+  
+  @property
+  def DOUS(self):
+    """Digital outputs"""
+    frame = Frame((self.dir, READ, DOUS_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1
+      
+    return value
+  
+  @DOUS.setter
+  def DOUS(self, value):
+    frame = Frame((self.dir, WRITE, DOUS_ADDR, value))
+    frame_rx = self.send_frame(frame)
+  
+  
+  
+  
+  
+  
+  
     
