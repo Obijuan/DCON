@@ -30,8 +30,25 @@ R0 = 4  #-- Rele 0
 R1 = 8  #-- Rele 1
 
 #-- Modos config. salidas digitales
-PWM0 = 1  #-- Salida DO0 modo PWM
-PWM1 = 2  #-- Salida DO1 modo PWM
+DIG = 0   #--- Salida digital normal
+PWM = 1   #--- Salida PWM
+
+def COND_val(cdo1, cdo0):
+  value = (cdo1 << 1) | cdo0
+  return value
+
+#-- Interpretacion de los bits del reg. COND
+#--                    0              1
+COND_str_table = ["Digital normal", "PWM"]
+
+def COND_str(bit):
+  try:
+    cad = COND_str_table[bit]
+  except IndexError:
+    return "Invalido"
+  
+  return cad
+
 
 #-- Modos de configuracion entradas/salidas analógicas
 M0_20 = 0  #-- Modo 0 - 20 ma
@@ -382,6 +399,12 @@ class Dcon(object):
     #-- Get the state of the configuration bits
     cdo0 = value & 0x0001
     cdo1 = (value & 0x0002) >> 1
+    
+    #-- Debug...
+    print ""
+    print "DO0: ({0}) {1}".format(cdo0, COND_str(cdo0))
+    print "DO1: ({0}) {1}".format(cdo1, COND_str(cdo1))
+    print ""
     
     #-- Return the inputs
     return cdo1, cdo0
