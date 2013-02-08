@@ -34,10 +34,28 @@ PWM0 = 1  #-- Salida DO0 modo PWM
 PWM1 = 2  #-- Salida DO1 modo PWM
 
 #-- Modos de configuracion entradas/salidas analógicas
-M0_20ma = 0  #-- Modo 0 - 20 ma
-M4_20ma = 1  #-- Modo 4 - 20 ma
-M0_5v =   2  #-- Modo 0 - 5 v
-TERMO =   3  #-- Modo Termopar (solo entradas)
+M0_20 = 0  #-- Modo 0 - 20 ma
+M4_20 = 1  #-- Modo 4 - 20 ma
+M0_5  = 2  #-- Modo 0 - 5 v
+TERMO = 3  #-- Modo Termopar (solo entradas)
+
+def CONA_val(cao, cain1, cain0):
+  """Construir el valor para el registro CONA segun el modo de configuracion"""
+  value = (cao << 8) | (cain1 << 4) | cain0
+  return value
+
+#-- Interpretacion digitos del reg. CONA
+#--                   0         1       2         3
+CONA_str_table = ["0-20mA", "4-20mA", "0-5v","Termopar"]
+
+def CONA_str(digit):
+  """Devolver la cadena asociada a un modo de configuracion"""
+  try:
+    cad = CONA_str_table[digit]
+  except IndexError:
+    return "Invalido"
+    
+  return cad
 
 
 class IncorrectFrame(Exception):
@@ -395,6 +413,13 @@ class Dcon(object):
     cao = (value & 0x0F00) >> 8
     cain1 = (value & 0x00F0) >> 4
     cain0 = (value & 0x000F)
+    
+    #-- Debug: show the digits
+    print ""
+    print "AO:   ({0}), {1} ".format(cao, CONA_str(cao))
+    print "AIN1: ({0}), {1} ".format(cain1, CONA_str(cain1))
+    print "AIN0: ({0}), {1} ".format(cain0, CONA_str(cain0))
+    print ""
     
     #-- Return the inputs
     return cao, cain1, cain0
