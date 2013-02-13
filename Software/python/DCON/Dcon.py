@@ -14,6 +14,17 @@ PWM0_ADDR = 0x06
 PWM1_ADDR = 0x07
 COND_ADDR = 0x08
 CONA_ADDR = 0x09
+CPID_ADDR = 0x0A
+PPID_ADDR = 0x0B
+IPID_ADDR = 0x0C
+DPID_ADDR = 0x0D
+SPLC_ADDR = 0x0E
+UAA0_ADDR = 0x0F
+UAA1_ADDR = 0x10
+CIAL_ADDR = 0x11
+COAL_ADDR = 0x12
+VIDA_ADDR = 0x13
+ALMO_ADDR = 0x14
 
 #--- Modos de las tramas
 READ = 3
@@ -28,6 +39,20 @@ DO1 = T1 #-- DO1 y T1 son sinonimos
 
 R0 = 4  #-- Rele 0
 R1 = 8  #-- Rele 1
+
+#-- E/S digitales
+ON = 1
+OFF = 0
+
+def DIG_str(bit):
+  """Interpretacion de los bits de E/S digital"""
+  DIG_str_table = ["OFF", "ON"]
+  try:
+    cad = DIG_str_table[bit]
+  except IndexError:
+    return "Invalido"
+  
+  return cad
 
 #-- Modos config. salidas digitales
 DIG = 0   #--- Salida digital normal
@@ -236,21 +261,27 @@ class Dcon(object):
     try:
       frame_rx = self.send_frame(frame)
     except TimeOut:
-      return -1,-1
+      return -16,-16
     
     #-- Parse the received frame
     try:
       dir, mode, reg, value = Parse(frame_rx)
     except IncorrectFrame:
       print "ERROR EN COMUNICACIONES"
-      return -1,-1
+      return -16,-16
     
     #-- Get the state of the inputs
     di0 = value & 0x0001
     di1 = (value & 0x0002) >> 1
     
+    #-- Debug:
+    #print ""
+    #print "DI0: ({0}) {1}".format(di0, DIG_str(di0))
+    #print "DI1: ({0}) {1}".format(di0, DIG_str(di1))
+    #print ""
+    
     #-- Return the inputs
-    return di1, di0
+    return di0, di1
     
   @property
   def AIN0(self):
@@ -295,16 +326,22 @@ class Dcon(object):
     try:
       frame_rx = self.send_frame(frame)
     except TimeOut:
-      return -1
+      return -16, -16, -16, -16
     
     #-- Parse the received frame
     try:
       dir, mode, reg, value = Parse(frame_rx)
     except IncorrectFrame:
       print "ERROR EN COMUNICACIONES"
-      return -1
+      return -16, -16, -16, -16
+        
+    #-- Get the state of the outputs
+    do0 = value & 0x0001              #-- Transitor 0
+    do1 = (value & 0x0002) >> 1       #-- Transitor 1
+    r0  = (value & 0x0004) >> 2       #-- Rele 0
+    r1  = (value & 0x0008) >> 3       #-- Rele 1
       
-    return value
+    return do0, do1, r0, r1
   
   @DOUS.setter
   def DOUS(self, value):
@@ -407,7 +444,7 @@ class Dcon(object):
     print ""
     
     #-- Return the inputs
-    return cdo1, cdo0
+    return cdo0, cdo1
       
     return value  
     
@@ -446,13 +483,328 @@ class Dcon(object):
     
     #-- Return the inputs
     return cao, cain1, cain0
-      
-    return value
+
   
   @CONA.setter
   def CONA(self, value):
     frame = Frame((self.dir, WRITE, CONA_ADDR, value))
     frame_rx = self.send_frame(frame) 
   
+  @property
+  def CPID(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, CPID_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -16
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -16
+    
+    #-- Get the state of the configuration bits
+    cpid = (value & 0x000F)
+    
+    #-- Debug: 
+
+    #-- Return the value
+    return cpid  
   
+  @CPID.setter
+  def CPID(self, value):
+    frame = Frame((self.dir, WRITE, CPID_ADDR, value))
+    frame_rx = self.send_frame(frame) 
   
+  @property
+  def PPID(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, PPID_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+
+    #-- Return the value
+    return value
+
+  @PPID.setter
+  def PPID(self, value):
+    frame = Frame((self.dir, WRITE, PPID_ADDR, value))
+    frame_rx = self.send_frame(frame)
+    
+
+  @property
+  def IPID(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, IPID_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+    
+    #-- Return the value
+    return value
+
+  @IPID.setter
+  def IPID(self, value):
+    frame = Frame((self.dir, WRITE, IPID_ADDR, value))
+    frame_rx = self.send_frame(frame)
+
+  @property
+  def DPID(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, DPID_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+    
+    #-- Return the value
+    return value
+
+  @DPID.setter
+  def DPID(self, value):
+    frame = Frame((self.dir, WRITE, DPID_ADDR, value))
+    frame_rx = self.send_frame(frame)
+
+  @property
+  def SPLC(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, SPLC_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+    
+    #-- Return the value
+    return value
+
+  @SPLC.setter
+  def SPLC(self, value):
+    frame = Frame((self.dir, WRITE, SPLC_ADDR, value))
+    frame_rx = self.send_frame(frame)
+
+
+  @property
+  def UAA0(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, UAA0_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+    
+    #-- Return the value
+    return value
+
+  @UAA0.setter
+  def UAA0(self, value):
+    frame = Frame((self.dir, WRITE, UAA0_ADDR, value))
+    frame_rx = self.send_frame(frame)
+
+  @property
+  def UAA1(self):
+    """Configuration of CPID inputs/outputs"""
+    frame = Frame((self.dir, READ, UAA1_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+    
+    #-- Return the value
+    return value
+
+  @UAA1.setter
+  def UAA1(self, value):
+    frame = Frame((self.dir, WRITE, UAA1_ADDR, value))
+    frame_rx = self.send_frame(frame)
+
+
+  @property
+  def CIAL(self):
+    """Configuration of input alarms"""
+    frame = Frame((self.dir, READ, CIAL_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -16, -16, -16, -16
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -16, -16, -16, -16
+    
+    #-- Get the state of the configuration bits
+    adi0 = (value & 0x000F)
+    adi1 = (value & 0x00F0) >> 4
+    aai0 = (value & 0x0F00) >> 8
+    aai1 = (value & 0xF000) >> 12
+    
+    #-- Debug: show the digits
+    #print ""
+    #print "AO:   ({0}), {1} ".format(cao, CONA_str(cao))
+    #print "AIN1: ({0}), {1} ".format(cain1, CONA_str(cain1))
+    #print "AIN0: ({0}), {1} ".format(cain0, CONA_str(cain0))
+    #print ""
+    
+    #-- Return the inputs
+    return adi0, adi1, aai0, aai1  
+
+  @CIAL.setter
+  def CIAL(self, value):
+    frame = Frame((self.dir, WRITE, CIAL_ADDR, value))
+    frame_rx = self.send_frame(frame) 
+
+  @property
+  def COAL(self):
+    """Configuration of input alarms"""
+    frame = Frame((self.dir, READ, COAL_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -16, -16, -16, -16
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -16, -16, -16, -16
+    
+    #-- Get the state of the configuration bits
+    adi0 = (value & 0x000F)
+    adi1 = (value & 0x00F0) >> 4
+    aai0 = (value & 0x0F00) >> 8
+    aai1 = (value & 0xF000) >> 12
+    
+    #-- Debug: show the digits
+    #print ""
+    #print "AO:   ({0}), {1} ".format(cao, CONA_str(cao))
+    #print "AIN1: ({0}), {1} ".format(cain1, CONA_str(cain1))
+    #print "AIN0: ({0}), {1} ".format(cain0, CONA_str(cain0))
+    #print ""
+    
+    #-- Return the inputs
+    return adi0, adi1, aai0, aai1
+
+  @COAL.setter
+  def COAL(self, value):
+    frame = Frame((self.dir, WRITE, COAL_ADDR, value))
+    frame_rx = self.send_frame(frame)     
+
+  @property
+  def VIDA(self):
+    """Life!"""
+    frame = Frame((self.dir, READ, VIDA_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -1024
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -1024
+    
+    #-- Return the value
+    return value
+
+  @VIDA.setter
+  def VIDA(self, value):
+    frame = Frame((self.dir, WRITE, VIDA_ADDR, value))
+    frame_rx = self.send_frame(frame)
+
+  @property
+  def ALMO(self):
+    """Configuration of Alarmas"""
+    frame = Frame((self.dir, READ, ALMO_ADDR, 0));
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return -16, -16
+    
+    #-- Parse the received frame
+    try:
+      dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      return -16, -16
+    
+    #-- Get the state of the configuration bits
+    mode = (value & 0x000F)
+    alm = (value & 0x00F0) >> 4
+    
+    #-- Debug: show the digits
+    print "----"
+    #print "AO:   ({0}), {1} ".format(cao, CONA_str(cao))
+    #print "AIN1: ({0}), {1} ".format(cain1, CONA_str(cain1))
+    #print "AIN0: ({0}), {1} ".format(cain0, CONA_str(cain0))
+    #print ""
+    
+    #-- Return the inputs
+    return mode, alm
+
+
+  @ALMO.setter
+  def ALMO(self, value):
+    frame = Frame((self.dir, WRITE, ALMO_ADDR, value))
+    frame_rx = self.send_frame(frame) 
+
+
+
+
+
+
+
+
+

@@ -19,6 +19,37 @@ import serial
 from Dcon import *
 
 
+def info_di(d):
+  """Mostrar informacion sobre las entradas digitales"""
+  
+  #-- Read digital inputs
+  di0,di1 = d.DINS
+  
+  print ""
+  print "---- ENTRADAS DIGITALES ----"
+  print "DI0: ({0}) {1}".format(di0, DIG_str(di0))
+  print "DI1: ({0}) {1}".format(di0, DIG_str(di1))
+  print ""
+  
+def info_do(d):
+  """Mostrar informacion sobre las salidas digitales"""
+  
+  #-- Read digital outputs
+  do0,do1,r0,r1 = d.DOUS
+  
+  #-- Read the configuration
+  cdo0, cdo1 = d.COND
+  
+  print ""
+  print "----- SALIDAS DIGITALES ----"
+  print "DO0: ({0}) {1},  TIPO: {2}".format(do0, DIG_str(do0),COND_str(cdo0))
+  print "DO1: ({0}) {1},  TIPO: {2}".format(do1, DIG_str(do1),COND_str(cdo1))
+  print ""
+  
+
+
+#------  MAIN -------------------
+
 # parse command line options
 try:
   opts, args = getopt.getopt(sys.argv[1:], "h", ["help"])
@@ -62,10 +93,15 @@ except serial.SerialException:
 #-- Mostrar el nombre del dispositivo
 print "Puerto serie abierto: {0}\n".format(s.name)
 
-#-- Conectar con la DCON
+#-- Conectar con las DCONes
 d = Dcon(s,0)
+d1 = Dcon(s, 1)
+d2 = Dcon(s, 2)
+d3 = Dcon(s, 3)
+d4 = Dcon(s, 4)
+d5 = Dcon(s, 5)
 
-d.DIRC
+#d2.DIRC
 
 
 
