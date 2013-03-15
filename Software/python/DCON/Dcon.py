@@ -25,6 +25,7 @@ CIAL_ADDR = 0x11
 COAL_ADDR = 0x12
 VIDA_ADDR = 0x13
 ALMO_ADDR = 0x14
+VERF_ADDR = 0x1A
 
 #--- Modos de las tramas
 READ = 3
@@ -100,6 +101,9 @@ def CONA_str(digit):
   return cad
 
 
+def DOUS_decode(value):
+  pass
+  
 class IncorrectFrame(Exception):
   def __init__(self, value):
     self.value = value
@@ -133,7 +137,12 @@ def Parse(frame):
        dd --> Registro: 00 - 0x14
        vvvv -> Valor"""
        
-  ##-- Campo 1: Direccion ---------     
+  if (len(frame)!=10):
+    print "  ** ERROR: Trama incorrecta (tamaño distinto de 10 bytes)"
+    raise IncorrectFrame(1)
+       
+       
+  ##-- Campo 1: Direccion ---------
   try:
     dir = int(frame[1] + frame[2], 16)
   except IndexError:
@@ -214,7 +223,7 @@ class Dcon(object):
     
     #-- Wait for the frame response
     #-- or... for a timeout
-    rx_frame = self.sp.read(len(frame));
+    rx_frame = self.sp.read(len(frame))
     
     #-- Check the received frame
     if len(rx_frame)!=0:
@@ -225,35 +234,76 @@ class Dcon(object):
     else:
       #-- No response! timeout!
       print "TIMEOUT";
+      
+      #-- Clean the serial buffers
+      self.sp.flushInput()
+      self.sp.flushOutput()
+      
       raise TimeOut(1)
       
     return rx_frame
 
-#------------------ ACCESS TO THE DCON REGISTERS!!! -----------------------
-  @property
-  def DIRC(self):
-    """DCON current dir. register"""
-    frame = Frame((self.dir, READ, DIRC_ADDR, 0));
+#------- Auxiliary functions for reading/writing on the DCON regs -------------
+    
+  def reg_read(self, addr):
+    """Read the given dcon register"""
+    
+     #-- Build the frame
+    frame = Frame((self.dir, READ, addr, 0));
+    
+    #-- Send the frame
     try:
       frame_rx = self.send_frame(frame)
     except TimeOut:
-      return -1
+      return 0xFFFF
     
     #-- Parse the received frame
     try:
-      dir, mode, reg, value = Parse(frame_rx)
+       dir, mode, reg, value = Parse(frame_rx)
     except IncorrectFrame:
       print "ERROR EN COMUNICACIONES"
-      return -1
+      #-- Clean the serial buffers
+      self.sp.flushInput()
+      self.sp.flushOutput()
+      return 0xFFFF
       
+    return value  
+
+  def reg_write(self, addr, value):
+    """Write a value in the given register"""
+    
+    #-- Build the frame
+    frame = Frame((self.dir, WRITE, addr, value))
+    
+    #-- Send the frame
+    try:
+      frame_rx = self.send_frame(frame)
+    except TimeOut:
+      return
+      
+    #-- Parse the received frame
+    try:
+       dir, mode, reg, value = Parse(frame_rx)
+    except IncorrectFrame:
+      print "ERROR EN COMUNICACIONES"
+      #-- Clean the serial buffers
+      self.sp.flushInput()
+      self.sp.flushOutput()
+
+    
+#------------------ ACCESS TO THE DCON REGISTERS!!! -----------------------
+  @property
+  def DIRC(self):
+    """Read the current dir. register"""
+    dir = self.reg_read(DIRC_ADDR);
     return dir
 
   @DIRC.setter
   def DIRC(self, value):
-    frame = Frame((self.dir, WRITE, DIRC_ADDR, value))
-    frame_rx = self.send_frame(frame)
-    
+    """write the DCON current dir. register"""
+    self.reg_write(DIRC_ADDR, value)
 
+ 
   @property
   def DINS(self):
     """Digital INPUTS. It returns the state of the 2 digital inputs"""
@@ -317,23 +367,13 @@ class Dcon(object):
       print "ERROR EN COMUNICACIONES"
       return -1
       
-    return value
-  
+    return value  
+    
   @property
   def DOUS(self):
     """Digital outputs"""
-    frame = Frame((self.dir, READ, DOUS_ADDR, 0));
-    try:
-      frame_rx = self.send_frame(frame)
-    except TimeOut:
-      return -16, -16, -16, -16
     
-    #-- Parse the received frame
-    try:
-      dir, mode, reg, value = Parse(frame_rx)
-    except IncorrectFrame:
-      print "ERROR EN COMUNICACIONES"
-      return -16, -16, -16, -16
+    value = self.reg_read(DOUS_ADDR);
         
     #-- Get the state of the outputs
     do0 = value & 0x0001              #-- Transitor 0
@@ -410,7 +450,7 @@ class Dcon(object):
       print "ERROR EN COMUNICACIONES"
       return -1
       
-    return valueinputs
+    return value
   
   @PWM1.setter
   def PWM1(self, value):
@@ -801,7 +841,17 @@ class Dcon(object):
     frame_rx = self.send_frame(frame) 
 
 
-
+  @property
+  def VERF(self):
+      """Firmware version"""
+      frame = Frame((self.dir, READ, VERF_ADDR, 0));
+      try:
+	frame_rx = self.send_frame(frame)
+      except TimeOut:
+	return -1024
+      
+      #-- Return the value
+      return frame_rx
 
 
 
