@@ -1,0 +1,7 @@
+Utilidades para el chip MCP2200 de la tarjeta DCON
+--------------------------------------------------
+
+* mcp2200-config :  Configurar correctamente los pines de salida del MCP2200 para
+ controlar la senal de tx/rx del RS-485.  Es necesario ejecutar este programa 
+ en las DCON nuevas que lleguen de fabrica. De lo contrario no se comunicaran
+con el PC.
