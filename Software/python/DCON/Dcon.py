@@ -201,6 +201,7 @@ class Dcon(object):
     """Arguments: serial port and dcon address"""
     self.sp = sp
     self.dir = dir
+    self.debug = True
 
   def __str__(self):
     str1 = "DCON. Dir: {0}\n".format(self.dir)
@@ -214,9 +215,10 @@ class Dcon(object):
     time.sleep(0.0002)
 
     #-- Send the frame
-    print "<-- (out) " + frame
     self.sp.write(frame);
-
+    if self.debug:
+      print "<-- (out) " + frame
+    
     #-- Switch to receiving mode
     time.sleep(0.001)
     self.sp.setRTS(True)
@@ -229,11 +231,13 @@ class Dcon(object):
     if len(rx_frame)!=0:
       
       #--Frame received. Print it!
-      print "--> (in)  " + rx_frame
+      if self.debug:
+        print "--> (in)  " + rx_frame
       
     else:
       #-- No response! timeout!
-      print "TIMEOUT";
+      if self.debug:
+	print "TIMEOUT";
       
       #-- Clean the serial buffers
       self.sp.flushInput()
